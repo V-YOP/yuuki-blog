@@ -1,0 +1,23 @@
+{
+  "name": "yuuki-blog",
+  "version": "1.0.0",
+  "description": "",
+  "workspaces": [
+    "yuuki-blog-backend",
+    "yuuki-blog-frontend",
+    "yuuki-blog-interface"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/V-YOP/yuuki-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/V-YOP/yuuki-blog/issues"
+  },
+  "homepage": "https://github.com/V-YOP/yuuki-blog#readme"
+}

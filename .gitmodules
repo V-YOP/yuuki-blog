@@ -1,0 +1,9 @@
+[submodule "yuuki-blog-interface"]
+	path = yuuki-blog-interface
+	url = https://github.com/V-YOP/yuuki-blog-interface.git
+[submodule "yuuki-blog-backend"]
+	path = yuuki-blog-backend
+	url = https://github.com/V-YOP/yuuki-blog-backend.git
+[submodule "yuuki-blog-frontend"]
+	path = yuuki-blog-frontend
+	url = https://github.com/V-YOP/yuuki-blog-frontend.git
